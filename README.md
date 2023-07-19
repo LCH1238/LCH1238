@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I take an interest in 3D object detection and BEV perception.
+- 🌱 I’m a third-year graduate student at Jilin University.
+- 🤔 I’m currently looking for a job.
+- 📫 How to reach me: lvchuanhao@foxmail.com.
